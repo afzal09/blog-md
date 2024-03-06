@@ -1,0 +1,4 @@
+baseURL = 'https://afzal09.github.io'
+languageCode = 'en-us'
+title = 'My Den'
+theme ='beautifulhugo'

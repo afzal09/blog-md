@@ -1,0 +1,4 @@
+[submodule "afzal09/public"]
+	path = afzal09/public
+	url = git@github.com:afzal09/afzal09.github.io.git
+	branch = main
